@@ -4,7 +4,7 @@
  * Refer to Computer Science 50
  * Problem Set 3
  *
- * Implemens Game of Fifteen (generalized to d x d).
+ * Implements Game of Fifteen (generalized to d x d).
  *
  * Usage: fifteen d
  *
